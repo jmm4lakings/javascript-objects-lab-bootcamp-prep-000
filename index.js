@@ -4,3 +4,4 @@ function updateObjectWithKeyAndValue (Object, key, value) {
   Object [key] = value
   return object
 }
+
