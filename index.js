@@ -9,4 +9,4 @@ function destructivelyUpdateObjectWithKeyAndValue(oobject, key, value) {
   return object
 }
 
-function deleteFromObjectKey
+function deleteFromObjectByKey
