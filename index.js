@@ -10,5 +10,5 @@ function destructivelyUpdateObjectWithKeyAndValue(oobject, key, value) {
 }
 
 function deleteFromObjectByKey(object, key) {
-  
+  const 
 }
