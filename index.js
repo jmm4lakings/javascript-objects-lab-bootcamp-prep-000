@@ -6,5 +6,5 @@ function updateObjectWithKeyAndValue (Object, key, value) {
 
 function destructivelyUpdateObjectWithKeyAndValue(oobject, key, value) {
   object[key] = value
-  
+  return object
 }
